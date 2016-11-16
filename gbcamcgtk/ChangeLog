@@ -1,0 +1,44 @@
+Note: ME refers to Vinicius Kursancew <linux@vkcorp.org>
+
+* gbcamc version 1.0Release Candidate 1 (2003-01-14)
+ - GTK1.2+ GUI implemnted
+ - IMLIB used for the gui instead of g2 and gd
+ - A buch of ugly leaks fixed in the text version
+ - XPM support on the GUI
+ - Album editing feature
+
+* gbcamc version 0.7 (2002-12-22)
+ - source tree now is autotools compatible 
+ - comment file suport (ME)
+ - i jumped a few steps in the versions because i'm about 70% of the way (only
+   GUI missing now) (ME)
+
+* gbcamc version 0.5 (2002-12-17) - not released to public
+ - pallete support (ME)
+ - color complement support (ME)
+ - code cleaning (created functions to some stuff) (ME)
+
+* gbcamc version 0.3.1-2 (2002-12-16) - not released to public
+ - small bugfix (freeing not malloc ed memmory) (ME)
+
+* gbcamc version 0.3.1 (2002-12-16) - not released to public
+ - album title support (ME)
+ - layout fixed (ME)
+
+* gbcamc version 0.3 (2002-12-15) - not released to public
+ - album support (ME)
+
+* gbcamc version 0.2 (2002-12-12) - first public release
+ - added jpeg support (ME)
+ - extracts all pictures and gameface (ME)
+ - added decent argument parsing (ME)
+ - possibility to change the base name (ME)
+ 
+* gbcamc version 0.1 (2002-12-11)
+ - converts the first image of the sav file, not very useful yet
+
+* gbcamc version 0.0.2 (2002-12-11
+ - gets a whole image out but upside-down
+
+* gbcamc version 0.0.1 (2002-12-11)
+ - manages to get some trash out of the .sav file

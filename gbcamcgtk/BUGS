@@ -1,0 +1,19 @@
+Severe
+ - None
+
+Minor
+ - You cannot choose to the links to be relative or not. Eg. if you are in /home/foo/ and puts your basename
+ as: /home/fred/ the program won't give you the option to make it relative (../fred/) exept you enter it
+ yourself.
+
+Wishlist for 1.X
+ - Style selection for the album
+ - Status Bar
+
+Wishlist for 2.X
+ - Image editing
+ - Some basic image processing features (zoom, rotate, flip, strech, pan, etc...)
+ - Themable album (fancy)
+
+Please, tell me if you find any BUG:
+linux@vkcorp.org

@@ -1,0 +1,12 @@
+Esta biblioteca tem como objetivo facilitar o desenvolvimento de jogos que
+usem SDL e C++.
+
+Ela é licenciada pela LGPL.
+
+---
+
+This library tries to make SDL easier to use with C++.
+
+It is covered by the LGPL.
+
+See COPYING

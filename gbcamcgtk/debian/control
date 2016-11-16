@@ -1,0 +1,15 @@
+Source: gbcamcgtk
+Section: gnome
+Priority: optional
+Maintainer: Vinicius Kursancew <linux@vkcorp.org>
+Build-Depends: libgnomeui-dev libimlib2-dev
+Standards-Version: 2.0
+
+Package: gbcamcgtk
+Architecture: any
+Depends: ${shlibs:Depends}
+Description: A GNOME2 software to view and save Game Boy camera pictures
+ An utility to convert .sav files from the Game Boy (tm) camera
+ to other formats. So far it suports xpm, png and jpeg.
+ Features: picture preview, album generation, palette tweaking,
+ exporting to other formats.

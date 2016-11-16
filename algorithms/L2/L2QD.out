@@ -1,0 +1,22 @@
+Conjunto #1
+Nome: antonio esta na raiz.
+Nome: andre esta no nivel 1 esquerda.
+Nome: marcos esta no nivel 1 direita.
+Nome: jose esta no nivel 2 esquerda.
+Nome: maria esta no nivel 2 esquerda.
+Nome: francisco esta no nivel 2 direita.
+Nome: maria esta no nivel 2 direita.
+Nome: joao esta no nivel 3 esquerda.
+Nome: eduardo esta no nivel 3 esquerda.
+Nome: edvaldo esta no nivel 3 direita.
+Nome: guilherme esta no nivel 3 direita.
+3 1
+0 0
+antonio 10
+maria 17
+Nao existe.
+10 
+
+1 3 16 18 
+2 6 11 17 
+

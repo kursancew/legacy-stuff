@@ -1,0 +1,37 @@
+Conjunto#1
+heap: DOUT001 MEST001 MEST003 MEST002 MEST004 GRAD001 
+[PROF002,4];ociosa;[PROF001,4];ociosa;
+heap: DOUT001 MEST001 MEST003 MEST002 MEST004 GRAD001 
+[PROF002,3];ociosa;[PROF001,3];ociosa;
+heap: DOUT001 MEST001 MEST003 MEST002 MEST004 GRAD001 
+[PROF002,2];ociosa;[PROF001,2];ociosa;
+heap: DOUT001 MEST001 MEST003 MEST002 MEST004 GRAD001 
+[PROF002,1];ociosa;[PROF001,1];ociosa;
+heap: MEST004 MEST002 MEST003 GRAD001 
+[DOUT001,2];ociosa;[MEST001,4];ociosa;
+heap: MEST004 MEST002 MEST003 GRAD001 
+[DOUT001,1];ociosa;[MEST001,3];ociosa;
+heap: MEST004 MEST002 MEST003 GRAD001 
+ociosa;ociosa;[MEST001,2];ociosa;
+heap: MEST004 MEST002 MEST003 GRAD001 
+ociosa;ociosa;[MEST001,1];ociosa;
+heap: MEST002 GRAD001 MEST003 
+ociosa;ociosa;[MEST004,4];ociosa;
+heap: MEST002 GRAD001 MEST003 
+ociosa;ociosa;[MEST004,3];ociosa;
+heap: MEST002 GRAD001 MEST003 
+ociosa;ociosa;[MEST004,2];ociosa;
+heap: MEST002 GRAD001 MEST003 
+ociosa;ociosa;[MEST004,1];ociosa;
+heap: MEST003 GRAD001 
+ociosa;ociosa;[MEST002,3];ociosa;
+heap: MEST003 GRAD001 
+ociosa;ociosa;[MEST002,2];ociosa;
+heap: MEST003 GRAD001 
+ociosa;ociosa;[MEST002,1];ociosa;
+heap: GRAD001 
+ociosa;ociosa;[MEST003,2];ociosa;
+heap: Vazio!
+ociosa;[GRAD001,1];[MEST003,1];ociosa;
+heap: Vazio!
+ociosa;ociosa;ociosa;ociosa;

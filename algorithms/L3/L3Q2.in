@@ -1,0 +1,498 @@
+15
+i sw 1244
+i sono 145
+i java 45875
+i cama 1452
+cs java
+cc sw OR csharp
+cc teste OR lixo
+cc teste OR sono
+cc sono OR cama
+cc lixo AND casa
+cc cama AND casa
+cc eu AND java
+cc java AND sw
+cs lixo
+cs cama
+
+239
+i sw 1244
+i ws 50
+i gt 45
+i jhg 55
+i iiiiii 89
+i lpoai 5647
+i retyw 456789
+i fghetrsm 975230
+i oprtygb 3654
+i cvbfag 458745
+i mnhdf 58236
+i uytrrp 145
+i rtmcbvsa 458
+i amndhg 65
+i perruifnvmxa 456
+i anbvczpqw 1568
+i wsdpqamzcbn 789
+i pqsmncbdg 2530
+i cmnbsdd 121
+i manshfzp 563
+i padbglq 521
+i apqmdbgr 4523
+i cvzrapifge 258
+i jhakj 69
+i weyrt 78
+i dgagd 58
+i gsah 23
+i qterw 123
+i oprt 145
+i gahs 144
+i ndfb 789544
+i nasdbs 2145
+i sdjf 458
+i seug 1452
+i pqwoe 48577
+i sdgcygas 2364
+i fdteed 4579
+i dgsafasr 3654
+i tyetwevsd 1245
+i asghsdfdsf 4587
+i sdghfddfsd 78441
+i wetwetyew 47587
+i wuyfd 78451
+i twefrdf 32541
+i asghadfdc 4578
+i pqp 788445
+i ujhsdhd 1245
+i sdjhgf 1245
+i sdiug 65478
+i sjfg 325648
+i poertui 1235479
+i sidfgf 784512
+i ertcbdhdgd 125463
+i sdfghfshdgf 458265
+i dgbgvdtetew 365489
+i hfddjdkl 210360
+i sono 145
+i java 45875
+i cama 1452
+cs sw
+cc inicio AND sw
+cc inicio OR sw
+cs ws
+cc sw AND ws
+cc sw OR ws
+cs gt
+cc ws AND gt
+cc ws OR gt
+cs jhg
+cc gt AND jhg
+cc gt OR jhg
+cs iiiiii
+cc jhg AND iiiiii
+cc jhg OR iiiiii
+cs lpoai
+cc iiiiii AND lpoai
+cc iiiiii OR lpoai
+cs retyw
+cc lpoai AND retyw
+cc lpoai OR retyw
+cs fghetrsm
+cc retyw AND fghetrsm
+cc retyw OR fghetrsm
+cs oprtygb
+cc fghetrsm AND oprtygb
+cc fghetrsm OR oprtygb
+cs cvbfag
+cc oprtygb AND cvbfag
+cc oprtygb OR cvbfag
+cs mnhdf
+cc cvbfag AND mnhdf
+cc cvbfag OR mnhdf
+cs uytrrp
+cc mnhdf AND uytrrp
+cc mnhdf OR uytrrp
+cs rtmcbvsa
+cc uytrrp AND rtmcbvsa
+cc uytrrp OR rtmcbvsa
+cs amndhg
+cc rtmcbvsa AND amndhg
+cc rtmcbvsa OR amndhg
+cs perruifnvmxa
+cc amndhg AND perruifnvmxa
+cc amndhg OR perruifnvmxa
+cs anbvczpqw
+cc perruifnvmxa AND anbvczpqw
+cc perruifnvmxa OR anbvczpqw
+cs wsdpqamzcbn
+cc anbvczpqw AND wsdpqamzcbn
+cc anbvczpqw OR wsdpqamzcbn
+cs pqsmncbdg
+cc wsdpqamzcbn AND pqsmncbdg
+cc wsdpqamzcbn OR pqsmncbdg
+cs cmnbsdd
+cc pqsmncbdg AND cmnbsdd
+cc pqsmncbdg OR cmnbsdd
+cs manshfzp
+cc cmnbsdd AND manshfzp
+cc cmnbsdd OR manshfzp
+cs padbglq
+cc manshfzp AND padbglq
+cc manshfzp OR padbglq
+cs apqmdbgr
+cc padbglq AND apqmdbgr
+cc padbglq OR apqmdbgr
+cs cvzrapifge
+cc apqmdbgr AND cvzrapifge
+cc apqmdbgr OR cvzrapifge
+cs jhakj
+cc cvzrapifge AND jhakj
+cc cvzrapifge OR jhakj
+cs weyrt
+cc jhakj AND weyrt
+cc jhakj OR weyrt
+cs dgagd
+cc weyrt AND dgagd
+cc weyrt OR dgagd
+cs gsah
+cc dgagd AND gsah
+cc dgagd OR gsah
+cs qterw
+cc gsah AND qterw
+cc gsah OR qterw
+cs oprt
+cc qterw AND oprt
+cc qterw OR oprt
+cs gahs
+cc oprt AND gahs
+cc oprt OR gahs
+cs ndfb
+cc gahs AND ndfb
+cc gahs OR ndfb
+cs nasdbs
+cc ndfb AND nasdbs
+cc ndfb OR nasdbs
+cs sdjf
+cc nasdbs AND sdjf
+cc nasdbs OR sdjf
+cs seug
+cc sdjf AND seug
+cc sdjf OR seug
+cs pqwoe
+cc seug AND pqwoe
+cc seug OR pqwoe
+cs sdgcygas
+cc pqwoe AND sdgcygas
+cc pqwoe OR sdgcygas
+cs fdteed
+cc sdgcygas AND fdteed
+cc sdgcygas OR fdteed
+cs dgsafasr
+cc fdteed AND dgsafasr
+cc fdteed OR dgsafasr
+cs tyetwevsd
+cc dgsafasr AND tyetwevsd
+cc dgsafasr OR tyetwevsd
+cs asghsdfdsf
+cc tyetwevsd AND asghsdfdsf
+cc tyetwevsd OR asghsdfdsf
+cs sdghfddfsd
+cc asghsdfdsf AND sdghfddfsd
+cc asghsdfdsf OR sdghfddfsd
+cs wetwetyew
+cc sdghfddfsd AND wetwetyew
+cc sdghfddfsd OR wetwetyew
+cs wuyfd
+cc wetwetyew AND wuyfd
+cc wetwetyew OR wuyfd
+cs twefrdf
+cc wuyfd AND twefrdf
+cc wuyfd OR twefrdf
+cs asghadfdc
+cc twefrdf AND asghadfdc
+cc twefrdf OR asghadfdc
+cs pqp
+cc asghadfdc AND pqp
+cc asghadfdc OR pqp
+cs ujhsdhd
+cc pqp AND ujhsdhd
+cc pqp OR ujhsdhd
+cs sdjhgf
+cc ujhsdhd AND sdjhgf
+cc ujhsdhd OR sdjhgf
+cs sdiug
+cc sdjhgf AND sdiug
+cc sdjhgf OR sdiug
+cs sjfg
+cc sdiug AND sjfg
+cc sdiug OR sjfg
+cs poertui
+cc sjfg AND poertui
+cc sjfg OR poertui
+cs sidfgf
+cc poertui AND sidfgf
+cc poertui OR sidfgf
+cs ertcbdhdgd
+cc sidfgf AND ertcbdhdgd
+cc sidfgf OR ertcbdhdgd
+cs sdfghfshdgf
+cc ertcbdhdgd AND sdfghfshdgf
+cc ertcbdhdgd OR sdfghfshdgf
+cs dgbgvdtetew
+cc sdfghfshdgf AND dgbgvdtetew
+cc sdfghfshdgf OR dgbgvdtetew
+cs hfddjdkl
+cc dgbgvdtetew AND hfddjdkl
+cc dgbgvdtetew OR hfddjdkl
+cs sono
+cc hfddjdkl AND sono
+cc hfddjdkl OR sono
+cs java
+cc sono AND java
+cc sono OR java
+cs cama
+cc java AND cama
+cc java OR cama
+cs cama
+cc cama AND cama
+cc cama OR cama
+
+239
+i sw 1244
+i ws 50
+i gt 45
+i jhg 55
+i iiiiii 89
+i lpoai 5647
+i retyw 456789
+i fghetrsm 975230
+i oprtygb 3654
+i cvbfag 458745
+i mnhdf 58236
+i uytrrp 145
+i rtmcbvsa 458
+i amndhg 65
+i perruifnvmxa 456
+i anbvczpqw 1568
+i wsdpqamzcbn 789
+i pqsmncbdg 2530
+i cmnbsdd 121
+i manshfzp 563
+i padbglq 521
+i apqmdbgr 4523
+i cvzrapifge 258
+i jhakj 69
+i weyrt 78
+i dgagd 58
+i gsah 23
+i qterw 123
+i oprt 145
+i gahs 144
+i ndfb 789544
+i nasdbs 2145
+i sdjf 458
+i seug 1452
+i pqwoe 48577
+i sdgcygas 2364
+i fdteed 4579
+i dgsafasr 3654
+i tyetwevsd 1245
+i asghsdfdsf 4587
+i sdghfddfsd 78441
+i wetwetyew 47587
+i wuyfd 78451
+i twefrdf 32541
+i asghadfdc 4578
+i pqp 788445
+i ujhsdhd 1245
+i sdjhgf 1245
+i sdiug 65478
+i sjfg 325648
+i poertui 1235479
+i sidfgf 784512
+i ertcbdhdgd 125463
+i sdfghfshdgf 458265
+i dgbgvdtetew 365489
+i hfddjdkl 210360
+i sono 145
+i java 45875
+i cama 1452
+cs sw
+cc inicio AND sw
+cc inicio OR sw
+cs ws
+cc sw AND ws
+cc sw OR ws
+cs gt
+cc ws AND gt
+cc ws OR gt
+cs jhg
+cc gt AND jhg
+cc gt OR jhg
+cs iiiiii
+cc jhg AND iiiiii
+cc jhg OR iiiiii
+cs lpoai
+cc iiiiii AND lpoai
+cc iiiiii OR lpoai
+cs retyw
+cc lpoai AND retyw
+cc lpoai OR retyw
+cs fghetrsm
+cc retyw AND fghetrsm
+cc retyw OR fghetrsm
+cs oprtygb
+cc fghetrsm AND oprtygb
+cc fghetrsm OR oprtygb
+cs cvbfag
+cc oprtygb AND cvbfag
+cc oprtygb OR cvbfag
+cs mnhdf
+cc cvbfag AND mnhdf
+cc cvbfag OR mnhdf
+cs uytrrp
+cc mnhdf AND uytrrp
+cc mnhdf OR uytrrp
+cs rtmcbvsa
+cc uytrrp AND rtmcbvsa
+cc uytrrp OR rtmcbvsa
+cs amndhg
+cc rtmcbvsa AND amndhg
+cc rtmcbvsa OR amndhg
+cs perruifnvmxa
+cc amndhg AND perruifnvmxa
+cc amndhg OR perruifnvmxa
+cs anbvczpqw
+cc perruifnvmxa AND anbvczpqw
+cc perruifnvmxa OR anbvczpqw
+cs wsdpqamzcbn
+cc anbvczpqw AND wsdpqamzcbn
+cc anbvczpqw OR wsdpqamzcbn
+cs pqsmncbdg
+cc wsdpqamzcbn AND pqsmncbdg
+cc wsdpqamzcbn OR pqsmncbdg
+cs cmnbsdd
+cc pqsmncbdg AND cmnbsdd
+cc pqsmncbdg OR cmnbsdd
+cs manshfzp
+cc cmnbsdd AND manshfzp
+cc cmnbsdd OR manshfzp
+cs padbglq
+cc manshfzp AND padbglq
+cc manshfzp OR padbglq
+cs apqmdbgr
+cc padbglq AND apqmdbgr
+cc padbglq OR apqmdbgr
+cs cvzrapifge
+cc apqmdbgr AND cvzrapifge
+cc apqmdbgr OR cvzrapifge
+cs jhakj
+cc cvzrapifge AND jhakj
+cc cvzrapifge OR jhakj
+cs weyrt
+cc jhakj AND weyrt
+cc jhakj OR weyrt
+cs dgagd
+cc weyrt AND dgagd
+cc weyrt OR dgagd
+cs gsah
+cc dgagd AND gsah
+cc dgagd OR gsah
+cs qterw
+cc gsah AND qterw
+cc gsah OR qterw
+cs oprt
+cc qterw AND oprt
+cc qterw OR oprt
+cs gahs
+cc oprt AND gahs
+cc oprt OR gahs
+cs ndfb
+cc gahs AND ndfb
+cc gahs OR ndfb
+cs nasdbs
+cc ndfb AND nasdbs
+cc ndfb OR nasdbs
+cs sdjf
+cc nasdbs AND sdjf
+cc nasdbs OR sdjf
+cs seug
+cc sdjf AND seug
+cc sdjf OR seug
+cs pqwoe
+cc seug AND pqwoe
+cc seug OR pqwoe
+cs sdgcygas
+cc pqwoe AND sdgcygas
+cc pqwoe OR sdgcygas
+cs fdteed
+cc sdgcygas AND fdteed
+cc sdgcygas OR fdteed
+cs dgsafasr
+cc fdteed AND dgsafasr
+cc fdteed OR dgsafasr
+cs tyetwevsd
+cc dgsafasr AND tyetwevsd
+cc dgsafasr OR tyetwevsd
+cs asghsdfdsf
+cc tyetwevsd AND asghsdfdsf
+cc tyetwevsd OR asghsdfdsf
+cs sdghfddfsd
+cc asghsdfdsf AND sdghfddfsd
+cc asghsdfdsf OR sdghfddfsd
+cs wetwetyew
+cc sdghfddfsd AND wetwetyew
+cc sdghfddfsd OR wetwetyew
+cs wuyfd
+cc wetwetyew AND wuyfd
+cc wetwetyew OR wuyfd
+cs twefrdf
+cc wuyfd AND twefrdf
+cc wuyfd OR twefrdf
+cs asghadfdc
+cc twefrdf AND asghadfdc
+cc twefrdf OR asghadfdc
+cs pqp
+cc asghadfdc AND pqp
+cc asghadfdc OR pqp
+cs ujhsdhd
+cc pqp AND ujhsdhd
+cc pqp OR ujhsdhd
+cs sdjhgf
+cc ujhsdhd AND sdjhgf
+cc ujhsdhd OR sdjhgf
+cs sdiug
+cc sdjhgf AND sdiug
+cc sdjhgf OR sdiug
+cs sjfg
+cc sdiug AND sjfg
+cc sdiug OR sjfg
+cs poertui
+cc sjfg AND poertui
+cc sjfg OR poertui
+cs sidfgf
+cc poertui AND sidfgf
+cc poertui OR sidfgf
+cs ertcbdhdgd
+cc sidfgf AND ertcbdhdgd
+cc sidfgf OR ertcbdhdgd
+cs sdfghfshdgf
+cc ertcbdhdgd AND sdfghfshdgf
+cc ertcbdhdgd OR sdfghfshdgf
+cs dgbgvdtetew
+cc sdfghfshdgf AND dgbgvdtetew
+cc sdfghfshdgf OR dgbgvdtetew
+cs hfddjdkl
+cc dgbgvdtetew AND hfddjdkl
+cc dgbgvdtetew OR hfddjdkl
+cs sono
+cc hfddjdkl AND sono
+cc hfddjdkl OR sono
+cs java
+cc sono AND java
+cc sono OR java
+cs cama
+cc java AND cama
+cc java OR cama
+cs cama
+cc cama AND cama
+cc cama OR cama

@@ -1,0 +1,44 @@
+gbcamcgtk - Game Boy Camera Convert 4 Linux GTK+ version
+
+Author: Vinicius Kursancew <linux@vkcorp.org>
+Version: 2.0
+Licence: GPL2
+Description:
+ An utility to convert .sav files from the Game Boy (tm) camera
+ to other formats. So far it suports xpm, png and jpeg.
+
++ USAGE
+	The interface is quite simple. Open a file and than you 
+	click convert to convert it to available formats.
+    
++ THE COMMENTS FILE
+
+	The syntax for the comments file is:
+
+	 PIC_NUM=comment
+
+	The condition is:
+	 0 <= PIC_NUM <= 30
+
+	 If PIC_NUM is 0 then comment will be assigned to gameface.
+	There is an example called comments.txt
+	
++ THE PALETTE OPTIONS
+	The arguments for -R, -G and -B options are formatted like this:
+	
+	LC:ML:MD:DC
+	
+	LC = Light Color
+	ML = Middle Light Color
+	MD = Middle Dark Collor
+	DC = Dark Color
+	
+	All values must be within the range 0% to 100%.
+	The % MUST be ommited.
+
++ THANKS TO:
+	
+J. Frohwin
+G. Uhelski
+V.J. Kemp
+The Scene

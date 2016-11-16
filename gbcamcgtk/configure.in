@@ -1,0 +1,24 @@
+AC_INIT(cam.h)
+
+AM_CONFIG_HEADER(config.h)
+
+AM_INIT_AUTOMAKE(gbcamcgtk, 2.0)
+
+#AM_MAINTAINER_MODE
+
+#AC_PROG_INTLTOOL
+AC_PROG_CC
+AC_ISC_POSIX
+AC_HEADER_STDC
+
+
+PKG_CHECK_MODULES(GBCAMCGTK, libgnomeui-2.0 imlib2)
+AC_SUBST(GBCAMCGTK_CFLAGS)
+AC_SUBST(GBCAMCGTK_LIBS)
+
+#AC_CHECK_LIB(Imlib2, imlib_context_get_display,echo "ok", exit)
+
+AC_OUTPUT([
+Makefile
+src/Makefile
+])

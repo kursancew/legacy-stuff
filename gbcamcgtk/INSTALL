@@ -1,0 +1,53 @@
++ Building GTK+ version(Compiling)
+	
+	To build you will need:
+	 - libgtk+1.2
+	 - libX11 > 3.0
+	 - imlib and it's dependencies
+	* For Debian 3.0(or above) users: The following command should get all you need to build:
+	
+	$ apt-get install libgtk1.2-dev imlib-dev xlibs-dev
+	
+
++ Building text version(Compiling)
+
+	To build you need:
+	 - libg2-dev >= 0.49
+
+	To link you need the following libs:
+	 - libgd2 >= 2.0 (libgd needs libXpm and libfreetype)
+	 - libc6
+	 - libm
+	 - libX11 ( > 3.0 should be fine i think, i tested with >= 4.0)
+	 - libpng >= 1.0
+	 - libjpeg6b >= 6
+ 	
+	A if you have a standard distribution installed you should already have:
+ 	- libc6
+ 	- libm
+	- libz
+ 	- libX11
+
+	 * If you cannot get in any other place, libgd2 and libg2 
+	may be at(respectively). Other libs are easyly found on the web:
+
+	http://vkcorp.org/download/gd2.tar.gz
+	http://vkcorp.org/download/g2.tar.gz
+
+	 * For Debian 3.0(or above) users: The following command should get all you need to build
+	my program (including the other libs, libgd2 depends on them all):
+
+	 $ apt-get install libg2-dev libgd2
+	 
++ Making
+	Type (inside the src/ directory)
+	$ ./configure 
+	$ make
+
++ Installing
+
+	To install you just need to run:
+	 $ make install
+
++ More
+	View README for further help.

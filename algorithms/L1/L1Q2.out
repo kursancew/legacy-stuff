@@ -1,0 +1,33 @@
+Conjunto #1
+add_cte: R0=0 R1=0 R2=9 R3=0 R4=0
+div_cte: R0=0 R1=0 R2=9 R3=4 R4=0
+carrega_reg: R0=5 R1=0 R2=9 R3=4 R4=0
+carrega_reg: R0=1 R1=0 R2=9 R3=4 R4=0
+sub_cte: R0=1 R1=0 R2=9 R3=4 R4=2
+estouro de pilha
+
+Conjunto #2
+add_reg: R0=0 R1=0 R2=0
+sub_cte: R0=0 R1=0 R2=5
+add_cte: R0=1 R1=0 R2=5
+mult_reg: R0=5 R1=0 R2=5
+add_cte: R0=5 R1=0 R2=4
+mult_reg: R0=20 R1=0 R2=4
+add_cte: R0=20 R1=0 R2=3
+mult_reg: R0=60 R1=0 R2=3
+add_cte: R0=60 R1=0 R2=2
+mult_reg: R0=120 R1=0 R2=2
+add_cte: R0=120 R1=0 R2=1
+mult_reg: R0=120 R1=0 R2=1
+add_cte: R0=120 R1=0 R2=0
+mult_reg: R0=14400 R1=0 R2=0
+add_cte: R0=14400 R1=14401 R2=0
+break: R0=14400 R1=14401 R2=0
+
+Conjunto #3
+pilha vazia
+
+Conjunto #4
+add_cte: R0=0 R1=0
+label inexistente
+

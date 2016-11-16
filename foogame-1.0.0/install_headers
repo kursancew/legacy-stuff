@@ -1,0 +1,12 @@
+#!/bin/bash
+if [ $UID -ne 0 ]; then
+	echo "must be root"
+	exit
+fi
+mkdir /usr/include/divlib 2> /dev/null
+if [ "$1" = "h" ]; then
+cp *.h /usr/include/divlib
+fi
+
+cp libdivlib.a /usr/lib
+cp zera /usr/local/bin

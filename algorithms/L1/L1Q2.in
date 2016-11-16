@@ -1,0 +1,49 @@
+5
+14
+add_cte 2 2 9 a
+div_cte 3 2 2 b
+carrega_reg 0 5 0 c
+senao 0 3 0 else
+sub_reg 3 3 0 n
+jump 0 0 0 fimse
+label: else carrega_reg 0 1 0 n
+label: fimse set_tam_pilha 1 0 0 n
+funcao 0 0 0 f1
+add_cte 8 0 0 n
+label: f1 sub_cte 4 0 -1 n
+funcao 0 0 0 f2
+label: f2 se 0 0 0 else
+break 0 0 0 n
+ 
+3
+12
+add_reg 0 1 0 lista1
+sub_cte 2 0 -5 de
+add_cte 0 0 1 algoritmos
+label: loop mult_reg 0 0 2 s
+add_cte 2 2 -1 n
+se_menor 1 2 0 loop
+funcao 0 0 0 f
+break 0 0 0 n
+label: f mult_reg 0 0 0 n
+add_cte 1 0 1 n
+return 2 2 2 jj
+div_reg 0 0 2 naoPodeChegarAqui
+ 
+2
+4
+return 4 5 6 fim
+add_cte 4 5 6 fim
+funcao 0 0 0 fim
+break 0 0 0 0
+ 
+2
+8
+label: inicio add_cte 0 0 0 string
+jump 0 0 0 naoexiste
+funcao 1 2 3 f1
+label: nexiste sub_cte 1 1 1 n
+mult_cte 2 1 5 n
+label: f1 break 4 565 5 fa
+funcao  0 0 0 f2
+label: f2 funcao 0 0 0 f2

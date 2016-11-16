@@ -1,0 +1,124 @@
+codigo
+32
+I 0 0000
+I 1 001
+I 1 1
+I 2 0002
+I 3 03
+I 3 000003
+I 4 4
+I 50 50
+I 100 100
+I 40 40
+I 45 45
+L 6
+F 3
+F 1
+F 40
+F 50
+M 1
+M 2
+M 3
+F 1
+M 4
+M 5
+M 6
+M 7
+M 8
+M 9
+M 10
+N 0
+N 1
+N 2
+N 3
+N 4
+
+nome
+86
+I edissu 03256
+I ca 45
+I zzz 456
+I yyyy 789
+I aaaaaaaaa 123456
+I rrrr 456
+I ppp 789
+I vvv 159
+I uuu 235
+I fff 4587
+I ooo 12674
+I dddd 789
+I antonio 0000
+I barbara 001
+I carlos 0002
+I carlos 03
+I jose 000003
+I beta 3
+I anderson 00000000005
+F anderson
+F beta
+F carlos
+F antonio
+F ppp
+F aaaaaaaaa
+F dddd
+F naoExiste
+F ooo
+F zzz
+F yyyy
+M 1
+M 2
+M 3
+M 4
+M 5
+M 6
+M 7
+M 8
+M 9
+M 10
+M 11
+M 12
+M 13
+M 14
+M 15
+M 16
+M 17
+M 18
+M 19
+M 20
+N 0
+N 1
+N 2
+N 3
+N 4
+N 5
+N 6
+N 7
+N 8
+N 9
+N 10
+N 11
+N 12
+N 13
+N 14
+N 15
+N 16
+N 17
+L edissu
+L ca
+L rrrr
+L antonio
+L dddd
+L ooo
+L vvv
+L aaaaaaaaa
+L barbara
+L carlos
+L fff
+L ppp
+L uuu
+L yyyy
+L anderson
+L beta
+L jose
+L zzz
+

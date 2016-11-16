@@ -1,0 +1,132 @@
+4
+Xerox01 prof dout adm fimpermissoes
+Xerox05 grad fimpermissoes
+HP_Desk mest prof dout fimpermissoes
+CompakJ adm fimpermissoes
+8
+mest MEST001 4
+mest MEST002 3
+prof PROF001 4
+mest MEST003 2
+mest MEST004 4
+grad GRAD001 1
+dout DOUT001 2
+prof PROF002 4
+
+24
+esseNomeNaoServePraNada adm fimpermissoes
+Xerox10 grad fimpermissoes
+Xerox09 mest fimpermissoes
+Xerox08 dout fimpermissoes
+Xerox07 prof fimpermissoes
+Xerox06 adm grad fimpermissoes
+Xerox05 grad mest fimpermissoes
+Xerox04 mest dout fimpermissoes
+Xerox03 dout prof fimpermissoes
+Xerox02 prof adm fimpermissoes
+Xerox01 adm prof mest grad dout fimpermissoes
+Xerox011 adm prof mest grad dout fimpermissoes
+Xerox012 adm prof mest grad dout fimpermissoes
+Xerox013 adm prof mest grad dout fimpermissoes
+Xerox014 adm prof mest grad dout fimpermissoes
+Xerox015 adm prof mest grad dout fimpermissoes
+Xerox016 adm prof mest grad dout fimpermissoes
+Xerox017 adm prof mest grad dout fimpermissoes
+Xerox018 adm prof mest grad dout fimpermissoes
+Xerox019 adm prof mest grad dout fimpermissoes
+Xerox010 adm prof mest grad dout fimpermissoes
+Xerox0111 adm prof mest grad dout fimpermissoes
+Xerox0112 adm prof mest grad dout fimpermissoes
+Xerox0113 adm prof mest grad dout fimpermissoes
+13
+adm a1 102
+adm a2 154
+grad g1 541
+prof p1 589
+adm a3 201
+mest m1 456
+adm a4 478
+adm a5 1205
+dout d1 102
+mest m2 458
+adm a6 102
+prof p2 542
+grad g2 120
+
+24
+esseNomeNaoServePraNada adm fimpermissoes
+Xerox10 grad fimpermissoes
+Xerox09 mest fimpermissoes
+Xerox08 dout fimpermissoes
+Xerox07 prof fimpermissoes
+Xerox06 adm grad fimpermissoes
+Xerox05 grad mest fimpermissoes
+Xerox04 mest dout fimpermissoes
+Xerox03 dout prof fimpermissoes
+Xerox02 prof adm fimpermissoes
+Xerox01 adm prof mest grad dout fimpermissoes
+Xerox011 adm prof mest grad dout fimpermissoes
+Xerox012 adm prof mest grad dout fimpermissoes
+Xerox013 adm prof mest grad dout fimpermissoes
+Xerox014 adm prof mest grad dout fimpermissoes
+Xerox015 adm prof mest grad dout fimpermissoes
+Xerox016 adm prof mest grad dout fimpermissoes
+Xerox017 adm prof mest grad dout fimpermissoes
+Xerox018 adm prof mest grad dout fimpermissoes
+Xerox019 adm prof mest grad dout fimpermissoes
+Xerox010 adm prof mest grad dout fimpermissoes
+Xerox0111 adm prof mest grad dout fimpermissoes
+Xerox0112 adm prof mest grad dout fimpermissoes
+Xerox0113 adm prof mest grad dout fimpermissoes
+51
+adm a1 10205
+adm a2 1550
+grad g1 5451
+prof p1 5893
+adm a3 2006
+mest m1 450
+adm a4 4795
+adm a5 1258
+dout d1 1029
+mest m2 4545
+adm a6 1024
+prof p2 5444
+grad g2 1209
+grad g3 2001
+grad g4 895
+grad g5 7415
+grad g6 7845
+prof p3 4505
+grad g7 4569
+grad g8 5436
+grad g9 1125
+grad g10 4556
+adm a7 8555
+mest m3 255
+prof p4 134
+prof p5 459
+prof p6 650
+adm a8 1284
+grad g11 2759
+grad g12 129
+mest m4 503
+mest m5 1155
+mest m6 650
+mest m7 2024
+mest m8 7564
+dout d2 353
+dout d3 211
+dout d4 454
+dout d5 6056
+dout d6 785
+mest m9 456
+dout d7 781
+prof p7 5643
+prof p8 1526
+dout d8 234
+dout d9 855
+dout d10 2564
+adm a9 1586
+adm a10 158
+prof p9 2359
+prof p10 989
