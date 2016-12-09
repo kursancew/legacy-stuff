@@ -1,3 +1,19 @@
+*.[oa]
+.*.swp
+*.so
+*.ko
+.config
+.tmp*
+*.mod.c
+*.elf
+*.obj
+.*.cmd
+*.depend
+*.la
+*.lo
+.*.cmd
+tags
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
