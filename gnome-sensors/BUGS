@@ -1,0 +1,3 @@
+- RPM is no good to RH8 (Andy Piper. andy.piper@****)
+- I got a report that in some cases it does not show all sensors (Andre K. xsd12@****)
+- There is a leak i cannot find in the function update(), sorry (ME)

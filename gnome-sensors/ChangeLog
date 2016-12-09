@@ -1,0 +1,29 @@
+2003-01-23 00:00 br
+
+ * Some variables were not being saved, now they are
+ * Fixed a leak (Still other(s) )
+ * Applet automatically resizes now
+ 
+--
+
+2003-01-23 00:00 br
+
+ * Log limit configuration was not being re-read
+
+--
+
+2003-01-23 00:00 br
+
+ * Logging facility improved (trim & file name selection)
+ * Keeps settings using gconf-client
+ * Better error handling
+ * Error dialogs
+ * Enable/Disable BEEP
+ * Displays chip name
+
+--
+
+2003-01-20 21:41  br
+
+ * Initial release
+

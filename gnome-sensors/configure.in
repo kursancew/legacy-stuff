@@ -1,0 +1,24 @@
+AC_INIT(src/gnome-sensors.c)
+
+AM_CONFIG_HEADER(config.h)
+
+AM_INIT_AUTOMAKE(gnome-sensors, 0.9)
+
+#AM_MAINTAINER_MODE
+
+#AC_PROG_INTLTOOL
+
+PKG_CHECK_MODULES(GSENSORS, libgnomeui-2.0 libpanelapplet-2.0)
+AC_SUBST(GSENSORS_CFLAGS)
+AC_SUBST(GSENSORS_LIBS)
+
+AC_CHECK_LIB(sensors,sensors_init,echo "ok", exit)
+
+AC_PROG_CC
+AC_ISC_POSIX
+AC_HEADER_STDC
+
+AC_OUTPUT([
+Makefile
+src/Makefile
+])

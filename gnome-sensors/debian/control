@@ -1,0 +1,16 @@
+Source: gnome-sensors
+Section: system
+Priority: optional
+Maintainer: Vinicius Kursancew <linux@vkcorp.org>
+Build-Depends: libsensors-dev, xlibs-dev, gconf2, libpanel-applet2-dev, debhelper (>> 3.0.0)
+Standards-Version: 0.9c
+
+Package: gnome-sensors
+Architecture: i386
+Depends: ${shlibs:Depends}
+Description: GNOME-Sensors, a GNOME2 applet to monitore your hardware
+ GNOME-Sensors is an applet that uses libsensors to monitor you
+ computer's sensors, like fan speed, CPU temperature, core and
+ system voltages. It has logging support and configurable warning
+ levels. You need a working i2c subsystem and the proper module
+ for your sensor installed.

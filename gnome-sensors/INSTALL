@@ -1,0 +1,6 @@
+Make sure you have every dependencies then...
+Type:
+
+./configure
+make
+make install

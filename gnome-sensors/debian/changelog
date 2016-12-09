@@ -1,0 +1,31 @@
+gnome-sensors (0.9c) none; urgency=medium
+
+  * Pinel resizes automatically
+  * Some variables were not being saved
+  * One leak was fixed (there is still anoter one, or more)
+
+ -- Vinicius Kursancew (vedder) <linux@vkcorp.org>  Tue,  26 Apr 2003 17:00:00 -0300
+
+gnome-sensors (0.9b) none; urgency=low
+
+  * Log limit configuration was now being re-read
+
+ -- Vinicius Kursancew (vedder) <linux@vkcorp.org>  Tue,  28 Jan 2003 23:15:00 -0300
+
+gnome-sensors (0.9a) none; urgency=medium
+
+  * Logging facility improved (trim & file name selection)
+  * Keeps settings using gconf-client
+  * Better error handling
+  * Error dialogs
+  * Enable/Disable BEEP
+  * Displays chip name
+
+ -- Vinicius Kursancew (vedder) <linux@vkcorp.org>  Thu,  23 Jan 2003 00:00:00 -0300
+
+gnome-sensors (0.9) none; urgency=low
+
+  * First release
+
+ -- Vinicius Kursancew (vedder) <linux@vkcorp.org>  Mon,  20 Jan 2003 21:29:10 -0300
+

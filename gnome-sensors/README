@@ -1,0 +1,27 @@
+	
+	gsensors (gnome-sensors)
+	
+(C)opyright 2003 Vinicius Kursancew
+
+This is an applet to the gnome panel that monitors the system's
+sensors.
+
+Features:
+ + Refresh rate configurable
+ + Warning limits
+ + Configurable applet display
+ + BEEP!
+ + Logging facility
+ 
+To be able to use this applet you will need the following:
+ + lm-senors kernel module
+ + libsensors installed
+ + GNOME2
+
+To build you will need the development packages for:
+ + gnome-panel-2
+ + libsensors
+ + GTK+2.x
+ + libgconf-2
+ + libpango-1
+ + libbobobo-ui-2
